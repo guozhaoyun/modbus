@@ -1,4 +1,4 @@
-go modbus [![Build Status](https://travis-ci.org/goburrow/modbus.svg?branch=master)](https://travis-ci.org/goburrow/modbus) [![GoDoc](https://godoc.org/github.com/goburrow/modbus?status.svg)](https://godoc.org/github.com/goburrow/modbus)
+go modbus [![Build Status](https://travis-ci.org/guozhaoyun/modbus.svg?branch=master)](https://travis-ci.org/guozhaoyun/modbus) [![GoDoc](https://godoc.org/github.com/guozhaoyun/modbus?status.svg)](https://godoc.org/github.com/guozhaoyun/modbus)
 =========
 Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 
